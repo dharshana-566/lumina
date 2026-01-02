@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Shop - E-Commerce System",
+  "description": "A high-end single-shop e-commerce platform with dedicated user storefront and admin dashboard, featuring role-based access, product management, and order tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
