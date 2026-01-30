@@ -6,37 +6,3 @@ Responsive and intuitive UI
 
 Smooth performance and fast load times
 
-Tech Stack
-
-Frontend: React, [any other frameworks/libraries]
-
-Backend: [If applicable, e.g., Node.js, Express]
-
-Database: [If applicable, e.g., MongoDB, Firebase]
-
-Styling: [CSS, Tailwind, etc.]
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/dharshana-566/lumina.git
-
-
-Navigate to the project directory:
-
-cd lumina
-
-
-Install dependencies:
-
-npm install
-
-
-Start the development server:
-
-npm start
-
-
-Open http://localhost:3000
- to view it in your browser.
